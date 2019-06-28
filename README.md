@@ -1,4 +1,3 @@
-# Video-Rain-Removal
 ## Removing Rain in Videos: A Large-scale Database and A Two-stream ConvLSTM Approach
 Tie Liu, Mai Xu, Zulin Wang
 
