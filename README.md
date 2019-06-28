@@ -1,4 +1,5 @@
-## Removing Rain in Videos: A Large-scale Database and A Two-stream ConvLSTM Approach
+# Removing Rain in Videos: A Large-scale Database and A Two-stream ConvLSTM Approach
+
 Tie Liu, Mai Xu, Zulin Wang
 
 [[Paper Link](https://arxiv.org/abs/1906.02526)] (ICME'19)
@@ -11,3 +12,7 @@ Rain removal has recently attracted increasing research attention, as it is able
         journal={arXiv preprint arXiv:1906.02526},
         year={2019}
         }
+
+## LasVR-Dataset
+![Video_class](./src_img/dataset_example.png)
+**A large-scale video database for rain removal (LasVR)**. The videos of our database contain a wide range of content categories, e.g., animal, nature landscapes, human scenes, action sports, man-made object and so forth. Additionally, the rendered streaks vary from light drizzling to heavy rain storm and vertical rain to slash line. The training, validation and testing sets consist of 261, 27 and 28 rain videos.
