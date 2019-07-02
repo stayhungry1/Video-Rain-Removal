@@ -13,12 +13,14 @@ Rain removal has recently attracted increasing research attention, as it is able
         year={2019}
         }
 
+![Video_class](./src_img/fig1.png)
+
 ## LasVR-Dataset
 ![Video_class](./src_img/dataset_example.png)
 
 **A large-scale video database for rain removal (LasVR)**. The videos of our database contain a wide range of content categories, e.g., animal, nature landscapes, human scenes, action sports, man-made object and so forth. Additionally, the rendered streaks vary from light drizzling to heavy rain storm and vertical rain to slash line. The training, validation and testing sets consist of 261, 27 and 28 rain videos.
 
-Download LasVR-Dataset:
+**Download LasVR-Dataset:**
 
 [[Dropbox](https://www.dropbox.com/s/cf1q283dvwvpby9/LasVR.zip?dl=0)]     [[BaiduYun](https://pan.baidu.com/s/1uyrCiK7rtFzOYKGBaf_D5w)] (passpord:bwg0)
 
