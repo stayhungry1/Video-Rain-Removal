@@ -20,9 +20,7 @@ Rain removal has recently attracted increasing research attention, as it is able
 
 Download LasVR-Dataset:
 
-[[BaiduYun Download](https://pan.baidu.com/s/1uyrCiK7rtFzOYKGBaf_D5w)] (passpord:bwg0)
-
-[[Dropbox](https://www.dropbox.com/s/cf1q283dvwvpby9/LasVR.zip?dl=0)]
+[[Dropbox](https://www.dropbox.com/s/cf1q283dvwvpby9/LasVR.zip?dl=0)]     [[BaiduYun](https://pan.baidu.com/s/1uyrCiK7rtFzOYKGBaf_D5w)] (passpord:bwg0)
 
 ## Framework
 ![Video_class](./src/img/framework.png)
