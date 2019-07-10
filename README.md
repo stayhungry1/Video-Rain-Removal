@@ -29,3 +29,6 @@ Rain removal has recently attracted increasing research attention, as it is able
 
 ## Framework
 ![Video_class](./src_img/framework.png)
+
+## Contact
+liutie@buaa.edu.cn, tieliu0@gmail.com (Tie Liu)
