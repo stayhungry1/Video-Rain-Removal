@@ -17,23 +17,19 @@ Rain removal has recently attracted increasing research attention, as it is able
 
 **Download LasVR-Database:**
 
-[[Dropbox](https://www.dropbox.com/s/cf1q283dvwvpby9/LasVR.zip?dl=0)]     [[BaiduYun](https://pan.baidu.com/s/1uyrCiK7rtFzOYKGBaf_D5w)] (passpord:bwg0)
+[[Dropbox](https://www.dropbox.com/s/cf1q283dvwvpby9/LasVR.zip?dl=0)]     [[BaiduYun](https://pan.baidu.com/s/1uyrCiK7rtFzOYKGBaf_D5w)] (password:bwg0)
 
 ## Framework
 ![Video_class](./src_img/framework.png)
 
-       @INPROCEEDINGS{8784876,
-       author={T. {Liu} and M. {Xu} and Z. {Wang}},
-       booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
-       title={Removing Rain in Videos: A Large-Scale Database and a Two-Stream ConvLSTM Approach},
-       year={2019},
-       volume={},
-       number={},
-       pages={664-669},
-       keywords={convolutional neural nets;feature extraction;image enhancement;image sequences;learning (artificial intelligence);rain;recurrent neural nets;video databases;video signal processing;video frames;rain detection;ConvLSTM;rain removal;rain video visibility enhancement;convolutional long-and short-term memory;Rain;Videos;Databases;Feature extraction;Correlation;Deep learning;Convolution;Rain removal;convolutional LSTM},
-       doi={10.1109/ICME.2019.00120},
-       ISSN={1945-7871},
-       month={July},}
+       @inproceedings{liu2019removing,
+         title={Removing rain in videos: a large-scale database and a two-stream ConvLSTM approach},
+         author={Liu, Tie and Xu, Mai and Wang, Zulin},
+         booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
+         pages={664--669},
+         year={2019},
+         organization={IEEE}
+       }
 
 
 ## Contact
