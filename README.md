@@ -6,7 +6,7 @@ Tie Liu, Mai Xu, Zulin Wang
 
 **Highlights**
 - We construct **a large-scale dataset** of 316 synthetic rain videos.
-- We propose a novel deep learning architecture with two-stream ConvLSTM based subnets for the joint tasks of rain streak detection and removal on videos..
+- We propose a novel deep learning architecture with two-stream ConvLSTM based subnets for **the joint tasks** of rain streak detection and removal on videos..
 
 <p align="center">
 <img src="src_img/fig1.png"/>
