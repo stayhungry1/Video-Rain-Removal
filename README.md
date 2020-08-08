@@ -31,15 +31,16 @@ Tflearn
 
 ## Citation
 If you find this work helpful, please cite:
-    @inproceedings{liu2019removing,
-      title={Removing rain in videos: a large-scale database and a two-stream ConvLSTM approach},
-      author={Liu, Tie and Xu, Mai and Wang, Zulin},
-      booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
-      pages={664--669},
-      year={2019},
-      organization={IEEE}
-    }
-
+```
+@inproceedings{liu2019removing,
+  title={Removing rain in videos: a large-scale database and a two-stream ConvLSTM approach},
+  author={Liu, Tie and Xu, Mai and Wang, Zulin},
+  booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={664--669},
+  year={2019},
+  organization={IEEE}
+}
+```
 
 ## Contact
 liutie@buaa.edu.cn, tieliu0@gmail.com (Tie Liu)
