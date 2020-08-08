@@ -10,6 +10,8 @@ Rain removal has recently attracted increasing research attention, as it is able
 <img src="src_img/fig1.png"/>
 </p>
 
+![Video_class](./src_img/framework.png)
+
 ## LasVR-Dataset
 ![Video_class](./src_img/dataset_example.png)
 
@@ -19,27 +21,24 @@ Rain removal has recently attracted increasing research attention, as it is able
 
 [[Dropbox](https://www.dropbox.com/s/cf1q283dvwvpby9/LasVR.zip?dl=0)]     [[BaiduYun](https://pan.baidu.com/s/1uyrCiK7rtFzOYKGBaf_D5w)] (password:bwg0)
 
-## Framework
-![Video_class](./src_img/framework.png)
-
-**Training**
+## Training
 Main code is in main.py. We cropped trainging videos into numerous 64x64x9 cubes, and the code for feeding traing data should be done by users.
 
-**Environment**
+## Environment**
 Python
 Tensorflow
 Tflearn
 
 ## Citation
 If you find this work helpful, please cite:
-@inproceedings{liu2019removing,
-  title={Removing rain in videos: a large-scale database and a two-stream ConvLSTM approach},
-  author={Liu, Tie and Xu, Mai and Wang, Zulin},
-  booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
-  pages={664--669},
-  year={2019},
-  organization={IEEE}
-}
+    @inproceedings{liu2019removing,
+      title={Removing rain in videos: a large-scale database and a two-stream ConvLSTM approach},
+      author={Liu, Tie and Xu, Mai and Wang, Zulin},
+      booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
+      pages={664--669},
+      year={2019},
+      organization={IEEE}
+    }
 
 
 ## Contact
