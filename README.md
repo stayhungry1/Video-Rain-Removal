@@ -24,10 +24,10 @@ Rain removal has recently attracted increasing research attention, as it is able
 ## Training
 Main code is in main.py. We cropped trainging videos into numerous 64x64x9 cubes, and the code for feeding traing data should be done by users.
 
-## Environment**
-Python
-Tensorflow
-Tflearn
+**Environment**
+- Python
+- TensorFlow
+- TFLearn
 
 ## Citation
 If you find this work helpful, please cite:
