@@ -10,8 +10,6 @@ Rain removal has recently attracted increasing research attention, as it is able
 <img src="src_img/fig1.png"/>
 </p>
 
-![Video_class](./src_img/framework.png)
-
 ## LasVR-Dataset
 ![Video_class](./src_img/dataset_example.png)
 
