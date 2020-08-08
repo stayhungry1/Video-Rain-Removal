@@ -24,7 +24,7 @@ Rain removal has recently attracted increasing research attention, as it is able
 [[Dropbox](https://www.dropbox.com/s/cf1q283dvwvpby9/LasVR.zip?dl=0)]     [[BaiduYun](https://pan.baidu.com/s/1uyrCiK7rtFzOYKGBaf_D5w)] (password:bwg0)
 
 ## Training
-Main code is in main.py. We cropped trainging videos into numerous 64x64x9 cubes, and the code for feeding traing data should be done by users.
+Main code is in main.py. We cropped training videos into numerous 64x64x9 cubes, and the code for feeding traing data should be done by users.
 
 **Environment**
 - Python
