@@ -9,7 +9,7 @@ Tie Liu, Mai Xu, Zulin Wang
 - We propose a novel deep learning architecture with two-stream ConvLSTM based subnets for **the joint tasks** of rain streak detection and removal on videos..
 
 <p align="center">
-<img src="src_img/fig1.png"/ width="100px">
+<img src="src_img/fig1.png"/>
 
 </p>
 
